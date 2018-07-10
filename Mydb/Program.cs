@@ -14,6 +14,9 @@ namespace Mydb
             video.AddVideo("First Video", DateTime.Now, "Romance");
             video.spAddVideo("second video", DateTime.Today, "Romance");
             video.spAddVideo("second video", DateTime.Today, "Romance");
+            video.spAddVideo("second video", DateTime.Today, "Action");
+            video.spAddVideo("second video", DateTime.Today, "Romance");
+            video.spAddVideo("second video", DateTime.Today, "Action");
 
 
         }
